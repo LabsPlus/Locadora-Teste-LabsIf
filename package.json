@@ -1,0 +1,27 @@
+{
+  "name": "locadora-teste-labsif",
+  "version": "1.0.0",
+  "description": "LabsIF : sistema para gerenciamento de uma locadora de carros",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeYooBin/Locadora-Teste-LabsIf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeYooBin/Locadora-Teste-LabsIf/issues"
+  },
+  "homepage": "https://github.com/LeeYooBin/Locadora-Teste-LabsIf#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
